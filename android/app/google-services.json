@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385381765733",
+    "project_id": "letsshopping-8574e",
+    "storage_bucket": "letsshopping-8574e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385381765733:android:6f41bbf2188c1efb1a2c8c",
+        "android_client_info": {
+          "package_name": "com.letsshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385381765733-n3c908d1ccde4g2c57pa1fh16tnqf34u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl5w63LUnjvKfAuy0oOUCzwXyISUAWLRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385381765733-n3c908d1ccde4g2c57pa1fh16tnqf34u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
